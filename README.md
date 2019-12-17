@@ -1,2 +1,2 @@
 # gitskills
-what's suits you isn't the best
+what's suits you is not the best
